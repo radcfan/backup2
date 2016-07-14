@@ -1,3 +1,4 @@
 backup types:
 - standard
 - UNIX
+- windows
